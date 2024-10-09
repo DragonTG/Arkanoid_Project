@@ -1,9 +1,8 @@
 #тестовый файл. пишите сюда что хотите
+#hfbushbhf
 print("hello world")
 
 print(7483278-8434833)
-
-print("hello world")
 
 def main():
     print("bruh")
